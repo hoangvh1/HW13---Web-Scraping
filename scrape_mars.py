@@ -46,10 +46,10 @@ def Scrape():
 
 	# Visit the Mars Weather twitter account
 	# Twitter API Keys
-	consumer_key = "eTtvLod8ciVLik2M4DX1e2es7"
-	consumer_secret = "sP0xw8vzk2Y2fZ9ElvuC8F2u3r8Ec6eA3y5n1sGXMuaR2YhVnP"
-	access_token = "938583684415918080-dT5Oz9YL68meddX9k32DIB8Tvq7oUiD"
-	access_token_secret = "ozqAYDE9KmVzaf5oRPEAnWEhOS01sxpHnFc01c0l0cy0k"
+	consumer_key = "nnnnnnnnnnnnnnnnnn"
+	consumer_secret = "nnnnnnnnnnnnnnnnnnnnn"
+	access_token = "9385nnnnnnnnnnnnnnnnnnn"
+	access_token_secret = "ozmnnnnnnnnnnnnnnnnny0k"
 
 	auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 	auth.set_access_token(access_token, access_token_secret)
